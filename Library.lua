@@ -271,11 +271,11 @@ local Library = {
     --// Scheme \\--
     IsLightTheme = false,
     Scheme = {
-        BackgroundColor = Color3.fromRGB(15, 15, 15),
-        MainColor = Color3.fromRGB(25, 25, 25),
-        AccentColor = Color3.fromRGB(125, 85, 255),
-        OutlineColor = Color3.fromRGB(40, 40, 40),
-        FontColor = Color3.new(1, 1, 1),
+        BackgroundColor = Color3.fromRGB(9, 9, 11),
+        MainColor = Color3.fromRGB(24, 24, 27),
+        AccentColor = Color3.fromRGB(206, 250, 254),
+        OutlineColor = Color3.fromRGB(24, 24, 27),
+        FontColor = Color3.new(250 250 250),
         Font = Font.fromEnum(Enum.Font.Code),
 
         RedColor = Color3.fromRGB(255, 50, 50),
